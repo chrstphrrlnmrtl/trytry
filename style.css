@@ -1,0 +1,32 @@
+body{
+	font-family: 'Open Sans', sans-serif;;
+	
+}
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+html{
+  font-size: 20px;
+  font-family: 'Open Sans', sans-serif;
+  
+}
+
+#bg-educ {
+	background-image: url(./Images/idea.png);
+	background-size: cover;
+	background-position: top center;
+
+}
+#contactme{
+	background-image: url(./Images/Main.jpg);
+	background-size: cover;
+	background-position: top center;
+}
+/* #profile{ 
+	background-image: url(./Images/Screen.jpg);
+	background-size: cover;
+	background-position: top center;
+}
+*/
